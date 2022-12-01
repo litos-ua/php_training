@@ -1,0 +1,1 @@
+{"dataname":"\/..\/data\/url_info.txt","servername":"host.docker.internal","username":"username","password":"sysdba","Logger":["main","litos"],"loglevel":["error","alert","info"],"logpath":["__DIR__ .'..\/..\/log\/my_error.log'","__DIR__ .'..\/..\/log\/my_alert.log'","__DIR__ .'..\/..\/log\/my_info.log'"]}

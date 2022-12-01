@@ -1,0 +1,172 @@
+Подключение к базе данных   php_pro   произведено успешно
+[0;31mSQL Request:  select * from registr where id
+[0mArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [create_at] => 2022-10-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Andrew,
+            [password] => mNxx/Zuk1KeSQ09CH4/zYJwW6es75E2Zv5HTU36vtkXD/NanG4q+cOQLwuh2v/pCIEu2ThfclGNwa7pD7BolYg==
+            [banned] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [create_at] => 2022-10-21 03:21:30
+            [updated_at] => 2022-10-20 03:21:30
+            [status] => 0
+            [name] => Anna
+            [password] => kB/Ba/5X5v+B4xSjxF7SoVQ3+xYarF0toh/rbetlD4dOqiVcYfu8uol2GfHzd6E5/Ht4KDyN2x2dX70Yr8C41A==
+            [banned] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 42
+            [create_at] => 2022-10-25 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Alexander
+            [password] => I0orfvK35SoRBqGem9xCGjV+pEcaBEW8ynVI0sImjT5fqsMZjpGowN++PeCbLTa0NL/u+XYM3sKqKea79iFhrQ==
+            [banned] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 43
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Victor
+            [password] => YQjNKs7w0JzgE9m8xGuiaQjAiLUAiW/1E/GQW77HPIlpN5hEVfp9NWoeA621XsFQcESaUPznD94g0Jjy87kszQ==
+            [banned] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 44
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-10-23 03:21:30
+            [status] => 1
+            [name] => Yaroslav
+            [password] => ELSK0k9Jz05ssXgQXcOzPiFXMLZz4lTdIafxYeL241Bg1qkpjX3r5FWwAFOR2svVX4x8iW35TBSXldO1vTMBTA==
+            [banned] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 45
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 1
+            [name] => Karolina
+            [password] => bKWTpN3ysz+iH6RhSghPI02sbP0r/uzrUf5e1mMPLII7/cwJtd0wI20oKyEYfG9VJFujk38gnMElzvioWgdcGg==
+            [banned] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 46
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Stepan
+            [password] => uXDzCoNu+DM3Az/oKcBUvR+fqWEkv8Ik/4bm0vws4FJsELywc0EdbuFjZuu49s+0DFZZWVlEoE6rA0diVWOOZA==
+            [banned] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 47
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Barbara
+            [password] => rDp06Rrw4tUwhylKtas8rwqIjeXEIYCOzVden3dANgxnbaGnOKWoQiunTPNUR+xaZZgGYldNhlJLtJv07m0YqQ==
+            [banned] => 0
+        )
+
+    [8] => Array
+        (
+            [id] => 48
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Ivan
+            [password] => BL3MDhxww6kfGVbLeA1L+NimWRpEzxpr7e4i9VAfAMF5d5ONufHZvABzsGmM1vp64LyuIx9qtSoCiLj9LinOkw==
+            [banned] => 0
+        )
+
+    [9] => Array
+        (
+            [id] => 49
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-03 03:21:30
+            [status] => 1
+            [name] => Irena
+            [password] => ufdvg6FLg/pjNrA7zU6NhEQsxvm5+rpeySyomGFmpY61BA6vFBMmXYG75uIWfEZoNfSswnZoPz4oU9dBjIh+aQ==
+            [banned] => 0
+        )
+
+    [10] => Array
+        (
+            [id] => 50
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Katarzyna
+            [password] => 2zdeZsN8hhk0Y9HjGKeWv5JzyasTaKpL0ZReGcBs75rnJGxlAkTjajK5jYejL4Ev7JGfEXgfzfcosprHKSGjWg==
+            [banned] => 0
+        )
+
+    [11] => Array
+        (
+            [id] => 51
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Nikolay
+            [password] => +W+nkiiM5DwYlHa+t+mglWQKaoAF+oxEwHLKeSGfBEx2wbefpdv36PV8RWXfkc8gjUl51HsNBKG3lQyezjDcVQ==
+            [banned] => 0
+        )
+
+    [12] => Array
+        (
+            [id] => 52
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Max
+            [password] => zxrYn+mntKxBlRGMo9uXzsRGga0y25ETFoWQe9lTnJn/v+iTUmkJDmtEDCMHPI3EBRSHa3lHu7R2zBwvMA8q/A==
+            [banned] => 0
+        )
+
+    [13] => Array
+        (
+            [id] => 53
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Robert
+            [password] => Yo2fdTlcFZm5jbkTdBJmMTIKzdsy2z54hYdXOBOXI3P/CkhpSXwDTALBq8jKHKPHaOwnm/hjrqPfLMQhAmRL6Q==
+            [banned] => 0
+        )
+
+    [14] => Array
+        (
+            [id] => 54
+            [create_at] => 2022-11-20 03:21:30
+            [updated_at] => 2022-11-20 03:21:30
+            [status] => 0
+            [name] => Piter
+            [password] => QTOmZQADn/LQN4C4fnF12QJGPI32roLmDF086qa+K21KYh+KaOXlrHdPSA9MzuS1aXxxII+KDdmtgFzTKVySEQ==
+            [banned] => 0
+        )
+
+)
+[1;34m1
+[0mПодключение к базе данных   php_pro   завершено

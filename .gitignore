@@ -1,0 +1,6 @@
+.idea
+/src/.idea/
+/vendor/
+/1_tmp/
+/src/tmp
+/src/log/

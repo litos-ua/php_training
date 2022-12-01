@@ -1,0 +1,32 @@
+version: "3"
+services:
+  php:
+    # імʼя контейнеру, яке будемо використовувати при вході на контейнер
+    container_name: php_pro_db
+    build:
+      context: ./
+      # посилання на докерфайл з налаштуванням контейнеру
+      dockerfile: "docker/configs/php/Dockerfile"
+    # встановлюємо змінні оточення
+    environment:
+      XDEBUG_CONFIG: "remote_host={{YOUR_IP_ADDRESS}}"
+      PHP_IDE_CONFIG: "serverName=docker"
+    # прописуємо синхронізацію директорій
+    volumes:
+     - ./:/srv/src/php_pro
+    links:
+     - mysql_db
+
+  mysql_db:
+    image: mysql:8
+    restart: always
+    ports:
+      - "12306:3306"
+    environment:
+       MYSQL_ROOT_PASSWORD: rootpass
+       MYSQL_DATABASE: php_pro
+       MYSQL_USER: litos
+       MYSQL_PASSWORD: sysdba
+    volumes:
+      - ./dbdata:/var/lib/mysql/
+      # - ./dbdata:/srv/src/php_pro
