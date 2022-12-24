@@ -1,0 +1,10 @@
+/php_test_doc2/.idea
+/php_test_doc2/src/.idea/
+/php_test_doc2/vendor/
+/php_test_doc2/logs/
+/php_test_doc2/storage/
+/php_test_doc2/src/1_tmp/
+/php_test_doc2/src/2_tmp/
+/php_test_doc2/src/tmp
+/php_test_doc2/src/logs
+/php_test_doc2/storage
