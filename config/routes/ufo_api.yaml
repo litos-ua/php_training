@@ -1,0 +1,8 @@
+#  config/routes/ufo_api.yaml
+
+
+
+ufo_api_server:
+  path:   /rpc-api
+  controller: Ufo\JsonRpcBundle\Controller\ApiController::serverAction
+  methods: ["GET","POST"]

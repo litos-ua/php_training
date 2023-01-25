@@ -1,0 +1,4 @@
+# config/packages/ufo_json_rpc.yaml
+ufo_json_rpc:
+  security:
+  # default - security disabled
